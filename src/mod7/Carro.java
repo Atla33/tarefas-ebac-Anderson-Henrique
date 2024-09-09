@@ -1,4 +1,4 @@
-package mod8;
+package mod7;
 
 public class Carro {
 
@@ -84,3 +84,6 @@ public class Carro {
         System.out.println("Motor ligado: " + (motorLigado ? "Sim" : "Não"));
     }
 }
+
+// sempre usar git push --set-upstream origin mod09 quando criar uma branch nova
+
