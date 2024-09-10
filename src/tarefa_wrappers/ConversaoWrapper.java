@@ -10,7 +10,7 @@ public class ConversaoWrapper {
 
 
         System.out.println("Digite um número inteiro: ");
-        int valorPrimitivo = scanner.nextInt();  // Variável primitiva
+        int valorPrimitivo = scanner.nextInt();
 
 
         Integer valorWrapper = Integer.valueOf(valorPrimitivo);
