@@ -1,5 +1,5 @@
 
-public class Primeira_Classe {
+public class PrimeiraClasse {
 
     public static void main(String[] args) {
 
